@@ -12,7 +12,7 @@ author: Shih-Chuan (Matt) Wang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: " "
   Projects:
     - Autonomous Shark Tracking: "aboutme"
   Blogs: "aboutme"
