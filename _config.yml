@@ -12,9 +12,9 @@ author: Shih-Chuan (Matt) Wang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: ""
+  About Me: "index"
   Projects: "project"
-  Resume: "https://drive.google.com/file/d/1cQc67vG6KNRE4is-tgV0VtMr_fL13EiX/view?usp=sharing"
+  Resume: "resume_2ndsem_v1.pdf"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
