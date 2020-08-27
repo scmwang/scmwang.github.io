@@ -45,7 +45,7 @@ full-width: true
          Robots and Medical Mechatronics Lab, NTU<br>
          <div align="justify">
            <font size="3" >This robot is a sugical robot for minimally invasive orthopedic surgery. In this project, I work on control system analysis and design. I derived inverse dynamic model and analyzed controller performance of the robot, trying to improve the tracking performance and suppress high-bandwidth tremor from the operator. We presented and demoed our robot system on national news in Taiwan, demonstrating capability of error suppression of tip motion to within 2mm.<br>
-           Links: <a href="https://www.youtube.com/watch?v=eWTnA_MdFLk">Media1</a>, <a href="https://today.line.me/tw/v2/article/%E9%AA%A8%E7%A7%91%E9%81%94%E6%96%87%E8%A5%BF%EF%BC%8C%E7%82%B3%E7%A2%A9%E7%94%9F%E9%86%AB%E5%BE%AE%E5%89%B5%E6%89%8B%E8%A1%93%E6%A9%9F%E5%99%A8%E4%BA%BA%E8%AE%93%E6%B2%BB%E7%99%82%E6%9B%B4%E7%B2%BE%E6%BA%96%E6%9C%89%E6%95%88-ReWzom">Media2</a>
+           Links: <a href="https://www.youtube.com/watch?v=eWTnA_MdFLk">Media1</a>, <a href="https://today.line.me/tw/v2/article/%E9%AA%A8%E7%A7%91%E9%81%94%E6%96%87%E8%A5%BF%EF%BC%8C%E7%82%B3%E7%A2%A9%E7%94%9F%E9%86%AB%E5%BE%AE%E5%89%B5%E6%89%8B%E8%A1%93%E6%A9%9F%E5%99%A8%E4%BA%BA%E8%AE%93%E6%B2%BB%E7%99%82%E6%9B%B4%E7%B2%BE%E6%BA%96%E6%9C%89%E6%95%88-ReWzom">Media2</a>(All in Mandarin)
          </font>
          </div> 
     </div>
