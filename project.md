@@ -20,7 +20,8 @@ full-width: true
     </div>
 </div>
 
-<div class="container" style="width: 130%; padding-top: 10px">
+
+<div class="container" style="width: 130%; padding-top: 20px">
     <div style="float: left; width:230px; padding-top: 15px">
         <img src="{{site.baseurl}}/img/MHI.png" vertical-align='middle'/>
     </div>
@@ -28,8 +29,23 @@ full-width: true
         <b>Multi-UAV motion planning for persistent coverage and surveillance </b><br>
          Search Based Planning Lab, CMU<br>
          <div align="justify">
-           <font size="3" >Researched on multi-UAV path planning with global deconfliction for persistent coverage and surveillance. In this work, I developed new goal assigner utilizing multi-objective utility function and multi-goal A*. I also designed new motion primitives for planning using graph search(MHA*) and state lattice-based planner. I improved the coverage performance by 80% with the new goal assinger and debugging existing software pipeline.<br>
-           Links: <a href="https://www.youtube.com/watch?v=aZkY3W1cSWI&feature=emb_title">Clip</a>
+           <font size="3" >Researched on multi-UAV planning with global deconfliction for persistent coverage and surveillance. In this work, I developed a new goal assigner utilizing multi-objective utility function and multi-goal A*, and also designed new motion primitives for planning using graph search(MHA*) and state lattice-based planner. I improved the coverage performance by 80% with the new goal assinger and debugging existing software pipeline.<br>
+           Links: <a href="https://youtu.be/6_fcSuORXCA">Clip</a>
+         </font>
+         </div> 
+    </div>
+</div>
+
+<div class="container" style="width: 130%; padding-top: 20px">
+    <div style="float: left; width:230px; padding-top: 15px">
+        <img src="{{site.baseurl}}/img/surgical_robot.jpeg" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:250px">
+        <b>Handheld Surgical Robot for Orthopedic Surgery </b><br>
+         Robots and Medical Mechatronics Lab, NTU<br>
+         <div align="justify">
+           <font size="3" >Under construction.<br>
+           Links: <a href="https://www.youtube.com/watch?v=eWTnA_MdFLk">Media</a>
          </font>
          </div> 
     </div>
