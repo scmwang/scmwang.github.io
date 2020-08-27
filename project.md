@@ -53,6 +53,21 @@ full-width: true
 
 <div class="container" style="width: 130%; padding-top: 20px">
     <div style="float: left; width:230px; padding-top: 15px">
+        <img src="{{site.baseurl}}/img/delta.jpg" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:250px">
+        <b>Redundant Delta-type 5-axis milling machine </b><br>
+         Robots and Medical Mechatronics Lab, NTU<br>
+         <div align="justify">
+           <font size="3" >This redundant Delta-type robot is a research plaform in RMML, which is built as a prototype of lab's sugocal robot. In this work, I performed system identification and designed DOB controller to improve tracking accuracy using Simulink and xPC.<br>
+         </font>
+        Links: <a href="https://youtu.be/N-_jca0M_K4">Clip</a>
+         </div> 
+    </div>
+</div>
+
+<div class="container" style="width: 130%; padding-top: 20px">
+    <div style="float: left; width:230px; padding-top: 15px">
         <img src="{{site.baseurl}}/img/SCARA.jpeg" vertical-align='middle'/>
     </div>
     <div style="margin-left:250px">
