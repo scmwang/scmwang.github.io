@@ -5,11 +5,11 @@ title: ''
 full-width: true
 ---
 
-<div class="container" style="width: 130%; padding-top: 10px; padding-left:-50px">
-    <div style="float: left; width:200px; padding-top: 15px">
+<div class="container" style="width: 130%; padding-top: 10px; padding-left:-80px">
+    <div style="float: left; width:230px; padding-top: 15px">
         <img src="{{site.baseurl}}/img/plan.png" vertical-align='middle'/>
     </div>
-    <div style="margin-left:230px">
+    <div style="margin-left:250px">
         <b>Apartment Package Delivery System with UAV </b><br>
          MRSD Capstone Project, CMU<br>
          <div align="justify">
