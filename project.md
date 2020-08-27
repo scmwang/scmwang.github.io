@@ -59,7 +59,7 @@ full-width: true
         <b>Development of redundant SCARA robot</b><br>
          Robots and Medical Mechatronics Lab, NTU<br>
          <div align="justify">
-           <font size="3" >Under construction.Researched on multi-UAV planning with global deconfliction for persistent coverage and surveillance. In this work, I developed a new goal assigner utilizing multi-objective utility function and multi-goal A*, and also designed new motion primitives for planning using graph search(MHA*) and state lattice-based planner.<br>
+           <font size="3" > I self-proposed a College Student Research Project and gained sponsorship by Ministry of Science and Technology (Taiwan) to research on configuration space planning of redundant SCARA robot. In this project, I built the SCARA robot from scratch, including from mechanical design and manufacturing, electrical system and microcontroller, robot kinematic and dynamic analysis, to planning algorithm (RRT) simulation, as a prototype for obstacle avoidance study. <br>
            </font>
          </div> 
     </div>
