@@ -44,7 +44,7 @@ full-width: true
         <b>Handheld Surgical Robot for Orthopedic Surgery </b><br>
          Robots and Medical Mechatronics Lab, NTU<br>
          <div align="justify">
-           <font size="3" >Under construction.<br>
+           <font size="3" >Under construction.Researched on multi-UAV planning with global deconfliction for persistent coverage and surveillance. In this work, I developed a new goal assigner utilizing multi-objective utility function and multi-goal A*, and also designed new motion primitives for planning using graph search(MHA*) and state lattice-based planner.<br>
            Links: <a href="https://www.youtube.com/watch?v=eWTnA_MdFLk">Media</a>
          </font>
          </div> 
@@ -59,7 +59,7 @@ full-width: true
         <b>Development of redundant SCARA robot</b><br>
          Robots and Medical Mechatronics Lab, NTU<br>
          <div align="justify">
-           <font size="3" >Under construction.<br>
+           <font size="3" >Under construction.Researched on multi-UAV planning with global deconfliction for persistent coverage and surveillance. In this work, I developed a new goal assigner utilizing multi-objective utility function and multi-goal A*, and also designed new motion primitives for planning using graph search(MHA*) and state lattice-based planner.<br>
            </font>
          </div> 
     </div>
