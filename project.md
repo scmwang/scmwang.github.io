@@ -53,7 +53,7 @@ full-width: true
 
 <div class="container" style="width: 130%; padding-top: 20px">
     <div style="float: left; width:230px; padding-top: 15px">
-        <img src="{{site.baseurl}}/img/delta.jpg" vertical-align='middle'/>
+        <img src="{{site.baseurl}}/img/delta.jpeg" vertical-align='middle'/>
     </div>
     <div style="margin-left:250px">
         <b>Redundant Delta-type 5-axis milling machine </b><br>
