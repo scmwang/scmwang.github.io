@@ -59,7 +59,7 @@ full-width: true
         <b>Redundant Delta-type 5-axis milling machine </b><br>
          Robots and Medical Mechatronics Lab, NTU<br>
          <div align="justify">
-           <font size="3" >This redundant Delta-type robot is a research plaform in RMML, which is built as a prototype for lab's surgical robot. The robot combines a RPS parallel kinematic mechanism and an X-Y-Z stage to a gantry structure, providing larger workspace for complex shape milling. In this work, I performed system identification and designed DOB controller to improve tracking accuracy using Simulink and xPC. I also wrote some trajectory generation code to conduct the experiment.<br>
+           <font size="3" >This redundant Delta-type robot is a research plaform in RMML, which is built as a prototype for lab's surgical robot. The robot combines a RPS parallel kinematic mechanism and an X-Y-Z stage to a gantry structure, providing larger workspace for complex shape milling. In this work, I performed system identification and designed DOB controller to improve tracking accuracy using Simulink and xPC. I also wrote some trajectory generation program to conduct the experiment.<br>
            Links: <a href="https://youtu.be/N-_jca0M_K4">Clip</a>
          </font>
          </div> 
