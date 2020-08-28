@@ -12,7 +12,7 @@ author: Shih-Chuan (Matt) Wang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "index"
+  About Me: " "
   Projects: "project"
   Resume: "resume_2ndsem_v1.pdf"
   #Resources:
