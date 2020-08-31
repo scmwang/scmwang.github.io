@@ -27,7 +27,7 @@ full-width: true
     </div>
     <div style="margin-left:250px">
         <b>Multi-UAV motion planning for persistent coverage and surveillance </b><br>
-         Search Based Planning Lab, CMU<br>
+         Search-Based Planning Lab, CMU<br>
          <div align="justify">
            <font size="3" >Researched on multi-UAV planning with global deconfliction for persistent coverage and surveillance. In this work, I developed a new goal assigner utilizing multi-objective utility function and multi-goal A*, and also designed new motion primitives for planning using graph search(MHA*) and state lattice-based planner. I improved the coverage performance by 80% with the new goal assinger and debugging existing software pipeline.<br>
            Links: <a href="https://youtu.be/6_fcSuORXCA">Clip</a>
