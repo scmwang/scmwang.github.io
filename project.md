@@ -4,6 +4,21 @@ published: true
 title: Projects
 full-width: true
 ---
+<div class="container" style="width: 130%; padding-top: 10px">
+    <div style="float: left; width:230px; padding-top: 15px">
+        <img src="{{site.baseurl}}/img/Flippy2.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:250px">
+        <b>Behavior and planning of robotic kitchen assistants </b><br>
+         Miso Robotics<br>
+         <div align="justify">
+           <font size="3" >Contributed to all aspects of behavior and planning system for robotic kitchen assistants, including feature development,
+maintenance, deployment, processes, and tools <br>
+           Links: <a href="https://www.youtube.com/watch?v=T4-qsklXphs">Video</a>, 
+         </font>
+         </div> 
+    </div>
+</div>
 
 <div class="container" style="width: 130%; padding-top: 10px">
     <div style="float: left; width:230px; padding-top: 15px">
