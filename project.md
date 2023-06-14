@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: Projects
+title: Experiences
 full-width: true
 ---
 <div class="container" style="width: 130%; padding-top: 10px">
@@ -12,7 +12,7 @@ full-width: true
         <b>Behavior and planning of robotic kitchen assistants </b><br>
          Miso Robotics<br>
          <div align="justify">
-           <font size="3" >Contributed to all aspects of behavior and planning system for robotic kitchen assistants, including feature development, maintenance, deployment, processes, and tools. Main project includes but not limit to, boosted overall planning system performance; performed refactoring on the entire behavior system to improve scalability for different configurations and customer needs, led design and development of a new fallback planner.<br>
+           <font size="3" >Contributed to all aspects of behavior and planning system for robotic kitchen assistants, including feature development, maintenance, deployment, processes, and tools. Main projects include but not limit to, boosting overall planning system performance; performing refactoring on the entire behavior system to improve scalability for different configurations and customer needs, leading design and development of a new fallback planner.<br>
            Links: <a href="https://www.youtube.com/watch?v=T4-qsklXphs">Video</a>
          </font>
          </div> 
