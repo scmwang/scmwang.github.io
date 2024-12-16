@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shih-Chuan (Matt) Wang
-subtitle: 'Robotics software Engineer'
+subtitle: 'Robotics Software Engineer'
 published: true
 ---
 
